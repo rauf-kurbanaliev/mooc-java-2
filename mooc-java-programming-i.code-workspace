@@ -1,0 +1,729 @@
+{"folders":[
+        {
+            "name": ".tmc",
+            "path": ".tmc"
+        },
+        {
+            "name": "part01-Part01_01.Sandbox",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_01.Sandbox"
+        },
+        {
+            "name": "part01-Part01_02.AdaLovelace",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_02.AdaLovelace"
+        },
+        {
+            "name": "part01-Part01_03.OnceUponATime",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_03.OnceUponATime"
+        },
+        {
+            "name": "part01-Part01_04.Dinosaur",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_04.Dinosaur"
+        },
+        {
+            "name": "part01-Part01_05.Message",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_05.Message"
+        },
+        {
+            "name": "part01-Part01_06.HiAdaLovelace",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_06.HiAdaLovelace"
+        },
+        {
+            "name": "part01-Part01_07.MessageThreeTimes",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_07.MessageThreeTimes"
+        },
+        {
+            "name": "part01-Part01_08.Greeting",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_08.Greeting"
+        },
+        {
+            "name": "part01-Part01_09.Conversation",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_09.Conversation"
+        },
+        {
+            "name": "part01-Part01_10.Story",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_10.Story"
+        },
+        {
+            "name": "part01-Part01_11.VariousVariables",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_11.VariousVariables"
+        },
+        {
+            "name": "part01-Part01_12.IntegerInput",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_12.IntegerInput"
+        },
+        {
+            "name": "part01-Part01_13.DoubleInput",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_13.DoubleInput"
+        },
+        {
+            "name": "part01-Part01_14.BooleanInput",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_14.BooleanInput"
+        },
+        {
+            "name": "part01-Part01_15.DifferentTypesOfInput",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_15.DifferentTypesOfInput"
+        },
+        {
+            "name": "part01-Part01_16.SecondsInADay",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_16.SecondsInADay"
+        },
+        {
+            "name": "part01-Part01_17.SumOfTwoNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_17.SumOfTwoNumbers"
+        },
+        {
+            "name": "part01-Part01_18.SumOfThreeNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_18.SumOfThreeNumbers"
+        },
+        {
+            "name": "part01-Part01_19.AdditionFormula",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_19.AdditionFormula"
+        },
+        {
+            "name": "part01-Part01_20.MultiplicationFormula",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_20.MultiplicationFormula"
+        },
+        {
+            "name": "part01-Part01_21.AverageOfTwoNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_21.AverageOfTwoNumbers"
+        },
+        {
+            "name": "part01-Part01_22.AverageOfThreeNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_22.AverageOfThreeNumbers"
+        },
+        {
+            "name": "part01-Part01_23.SimpleCalculator",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_23.SimpleCalculator"
+        },
+        {
+            "name": "part01-Part01_24.SpeedingTicket",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_24.SpeedingTicket"
+        },
+        {
+            "name": "part01-Part01_25.CheckYourIndentation",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_25.CheckYourIndentation"
+        },
+        {
+            "name": "part01-Part01_26.Orwell",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_26.Orwell"
+        },
+        {
+            "name": "part01-Part01_27.Ancient",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_27.Ancient"
+        },
+        {
+            "name": "part01-Part01_28.Positivity",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_28.Positivity"
+        },
+        {
+            "name": "part01-Part01_29.Adulthood",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_29.Adulthood"
+        },
+        {
+            "name": "part01-Part01_30.LargerThanOrEqualTo",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_30.LargerThanOrEqualTo"
+        },
+        {
+            "name": "part01-Part01_31.GradesAndPoints",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_31.GradesAndPoints"
+        },
+        {
+            "name": "part01-Part01_32.OddOrEven",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_32.OddOrEven"
+        },
+        {
+            "name": "part01-Part01_33.Password",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_33.Password"
+        },
+        {
+            "name": "part01-Part01_34.Same",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_34.Same"
+        },
+        {
+            "name": "part01-Part01_35.CheckingTheAge",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_35.CheckingTheAge"
+        },
+        {
+            "name": "part01-Part01_36.LeapYear",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_36.LeapYear"
+        },
+        {
+            "name": "part01-Part01_37.GiftTax",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part01-Part01_37.GiftTax"
+        },
+        {
+            "name": "part02-Part02_01.Squared",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_01.Squared"
+        },
+        {
+            "name": "part02-Part02_02.SquareRootOfSum",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_02.SquareRootOfSum"
+        },
+        {
+            "name": "part02-Part02_03.AbsoluteValue",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_03.AbsoluteValue"
+        },
+        {
+            "name": "part02-Part02_04.ComparingNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_04.ComparingNumbers"
+        },
+        {
+            "name": "part02-Part02_05.CarryOn",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_05.CarryOn"
+        },
+        {
+            "name": "part02-Part02_06.AreWeThereYet",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_06.AreWeThereYet"
+        },
+        {
+            "name": "part02-Part02_07.OnlyPositives",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_07.OnlyPositives"
+        },
+        {
+            "name": "part02-Part02_08.NumberOfNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_08.NumberOfNumbers"
+        },
+        {
+            "name": "part02-Part02_09.NumberOfNegativeNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_09.NumberOfNegativeNumbers"
+        },
+        {
+            "name": "part02-Part02_10.SumOfNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_10.SumOfNumbers"
+        },
+        {
+            "name": "part02-Part02_11.NumberAndSumOfNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_11.NumberAndSumOfNumbers"
+        },
+        {
+            "name": "part02-Part02_12.AverageOfNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_12.AverageOfNumbers"
+        },
+        {
+            "name": "part02-Part02_13.AverageOfPositiveNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_13.AverageOfPositiveNumbers"
+        },
+        {
+            "name": "part02-Part02_14.Counting",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_14.Counting"
+        },
+        {
+            "name": "part02-Part02_15.CountingToHundred",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_15.CountingToHundred"
+        },
+        {
+            "name": "part02-Part02_16.FromWhereToWhere",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_16.FromWhereToWhere"
+        },
+        {
+            "name": "part02-Part02_17.SumOfASequence",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_17.SumOfASequence"
+        },
+        {
+            "name": "part02-Part02_18.SumOfASequenceTheSequel",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_18.SumOfASequenceTheSequel"
+        },
+        {
+            "name": "part02-Part02_19.Factorial",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_19.Factorial"
+        },
+        {
+            "name": "part02-Part02_20.RepeatingBreakingAndRemembering",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_20.RepeatingBreakingAndRemembering"
+        },
+        {
+            "name": "part02-Part02_21.InAHoleInTheGround",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_21.InAHoleInTheGround"
+        },
+        {
+            "name": "part02-Part02_22.Reprint",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_22.Reprint"
+        },
+        {
+            "name": "part02-Part02_23.FromOneToParameter",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_23.FromOneToParameter"
+        },
+        {
+            "name": "part02-Part02_24.FromParameterToOne",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_24.FromParameterToOne"
+        },
+        {
+            "name": "part02-Part02_25.Division",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_25.Division"
+        },
+        {
+            "name": "part02-Part02_26.DivisibleByThree",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_26.DivisibleByThree"
+        },
+        {
+            "name": "part02-Part02_27.NumberUno",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_27.NumberUno"
+        },
+        {
+            "name": "part02-Part02_28.Word",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_28.Word"
+        },
+        {
+            "name": "part02-Part02_29.Summation",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_29.Summation"
+        },
+        {
+            "name": "part02-Part02_30.Smallest",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_30.Smallest"
+        },
+        {
+            "name": "part02-Part02_31.Greatest",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_31.Greatest"
+        },
+        {
+            "name": "part02-Part02_32.Averaging",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_32.Averaging"
+        },
+        {
+            "name": "part02-Part02_33.StarSign",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_33.StarSign"
+        },
+        {
+            "name": "part02-Part02_34.AdvancedAstrology",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part02-Part02_34.AdvancedAstrology"
+        },
+        {
+            "name": "part03-Part03_01.ThirdElement",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_01.ThirdElement"
+        },
+        {
+            "name": "part03-Part03_02.SecondPlusThird",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_02.SecondPlusThird"
+        },
+        {
+            "name": "part03-Part03_03.IndexOutOfBoundsException",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_03.IndexOutOfBoundsException"
+        },
+        {
+            "name": "part03-Part03_04.ListSize",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_04.ListSize"
+        },
+        {
+            "name": "part03-Part03_05.LastInList",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_05.LastInList"
+        },
+        {
+            "name": "part03-Part03_06.FirstAndLast",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_06.FirstAndLast"
+        },
+        {
+            "name": "part03-Part03_07.RememberTheseNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_07.RememberTheseNumbers"
+        },
+        {
+            "name": "part03-Part03_08.OnlyTheseNumbers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_08.OnlyTheseNumbers"
+        },
+        {
+            "name": "part03-Part03_09.GreatestInList",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_09.GreatestInList"
+        },
+        {
+            "name": "part03-Part03_10.IndexOf",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_10.IndexOf"
+        },
+        {
+            "name": "part03-Part03_11.IndexOfSmallest",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_11.IndexOfSmallest"
+        },
+        {
+            "name": "part03-Part03_12.SumOfAList",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_12.SumOfAList"
+        },
+        {
+            "name": "part03-Part03_13.AverageOfAList",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_13.AverageOfAList"
+        },
+        {
+            "name": "part03-Part03_14.OnTheList",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_14.OnTheList"
+        },
+        {
+            "name": "part03-Part03_15.PrintInRange",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_15.PrintInRange"
+        },
+        {
+            "name": "part03-Part03_16.Sum",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_16.Sum"
+        },
+        {
+            "name": "part03-Part03_17.RemoveLast",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_17.RemoveLast"
+        },
+        {
+            "name": "part03-Part03_18.Swap",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_18.Swap"
+        },
+        {
+            "name": "part03-Part03_19.IndexWasNotFound",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_19.IndexWasNotFound"
+        },
+        {
+            "name": "part03-Part03_20.SumOfArray",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_20.SumOfArray"
+        },
+        {
+            "name": "part03-Part03_21.PrintNeatly",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_21.PrintNeatly"
+        },
+        {
+            "name": "part03-Part03_22.PrintInStars",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_22.PrintInStars"
+        },
+        {
+            "name": "part03-Part03_23.PrintThrice",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_23.PrintThrice"
+        },
+        {
+            "name": "part03-Part03_24.IsItTrue",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_24.IsItTrue"
+        },
+        {
+            "name": "part03-Part03_25.Login",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_25.Login"
+        },
+        {
+            "name": "part03-Part03_26.LineByLine",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_26.LineByLine"
+        },
+        {
+            "name": "part03-Part03_27.AVClub",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_27.AVClub"
+        },
+        {
+            "name": "part03-Part03_28.FirstWords",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_28.FirstWords"
+        },
+        {
+            "name": "part03-Part03_29.LastWords",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_29.LastWords"
+        },
+        {
+            "name": "part03-Part03_30.AgeOfTheOldest",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_30.AgeOfTheOldest"
+        },
+        {
+            "name": "part03-Part03_31.NameOfTheOldest",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_31.NameOfTheOldest"
+        },
+        {
+            "name": "part03-Part03_32.PersonalDetails",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part03-Part03_32.PersonalDetails"
+        },
+        {
+            "name": "part04-Part04_01.YourFirstAccount",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_01.YourFirstAccount"
+        },
+        {
+            "name": "part04-Part04_02.YourFirstBankTransfer",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_02.YourFirstBankTransfer"
+        },
+        {
+            "name": "part04-Part04_03.DogAttributes",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_03.DogAttributes"
+        },
+        {
+            "name": "part04-Part04_04.Room",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_04.Room"
+        },
+        {
+            "name": "part04-Part04_05.Whistle",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_05.Whistle"
+        },
+        {
+            "name": "part04-Part04_06.Door",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_06.Door"
+        },
+        {
+            "name": "part04-Part04_07.Product",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_07.Product"
+        },
+        {
+            "name": "part04-Part04_08.DecreasingCounter",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_08.DecreasingCounter"
+        },
+        {
+            "name": "part04-Part04_09.Debt",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_09.Debt"
+        },
+        {
+            "name": "part04-Part04_10.Song",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_10.Song"
+        },
+        {
+            "name": "part04-Part04_11.Film",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_11.Film"
+        },
+        {
+            "name": "part04-Part04_12.Gauge",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_12.Gauge"
+        },
+        {
+            "name": "part04-Part04_13.Agent",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_13.Agent"
+        },
+        {
+            "name": "part04-Part04_14.Multiplier",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_14.Multiplier"
+        },
+        {
+            "name": "part04-Part04_15.NumberStatistics",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_15.NumberStatistics"
+        },
+        {
+            "name": "part04-Part04_16.PaymentCard",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_16.PaymentCard"
+        },
+        {
+            "name": "part04-Part04_17.Items",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_17.Items"
+        },
+        {
+            "name": "part04-Part04_18.PersonalInformation",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_18.PersonalInformation"
+        },
+        {
+            "name": "part04-Part04_19.TelevisionPrograms",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_19.TelevisionPrograms"
+        },
+        {
+            "name": "part04-Part04_20.Books",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_20.Books"
+        },
+        {
+            "name": "part04-Part04_21.NumberOfStrings",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_21.NumberOfStrings"
+        },
+        {
+            "name": "part04-Part04_22.Cubes",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_22.Cubes"
+        },
+        {
+            "name": "part04-Part04_23.CreatingANewFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_23.CreatingANewFile"
+        },
+        {
+            "name": "part04-Part04_24.PrintingAFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_24.PrintingAFile"
+        },
+        {
+            "name": "part04-Part04_25.PrintingASpecifiedFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_25.PrintingASpecifiedFile"
+        },
+        {
+            "name": "part04-Part04_26.GuestListFromAFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_26.GuestListFromAFile"
+        },
+        {
+            "name": "part04-Part04_27.IsItInTheFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_27.IsItInTheFile"
+        },
+        {
+            "name": "part04-Part04_28.NumbersFromAFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_28.NumbersFromAFile"
+        },
+        {
+            "name": "part04-Part04_29.RecordsFromAFile",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_29.RecordsFromAFile"
+        },
+        {
+            "name": "part04-Part04_30.StoringRecords",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_30.StoringRecords"
+        },
+        {
+            "name": "part04-Part04_31.SportStatistics",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part04-Part04_31.SportStatistics"
+        },
+        {
+            "name": "part05-Part05_01.OneMinute",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_01.OneMinute"
+        },
+        {
+            "name": "part05-Part05_02.Book",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_02.Book"
+        },
+        {
+            "name": "part05-Part05_03.Cube",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_03.Cube"
+        },
+        {
+            "name": "part05-Part05_04.FitByte",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_04.FitByte"
+        },
+        {
+            "name": "part05-Part05_05.ConstructorOverload",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_05.ConstructorOverload"
+        },
+        {
+            "name": "part05-Part05_06.OverloadedCounter",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_06.OverloadedCounter"
+        },
+        {
+            "name": "part05-Part05_07.NullPointerException",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_07.NullPointerException"
+        },
+        {
+            "name": "part05-Part05_08.BiggestPetShop",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_08.BiggestPetShop"
+        },
+        {
+            "name": "part05-Part05_09.HealthStation",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_09.HealthStation"
+        },
+        {
+            "name": "part05-Part05_10.CardPayments",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_10.CardPayments"
+        },
+        {
+            "name": "part05-Part05_11.ComparingApartments",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_11.ComparingApartments"
+        },
+        {
+            "name": "part05-Part05_12.Song",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_12.Song"
+        },
+        {
+            "name": "part05-Part05_13.IdenticalTwins",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_13.IdenticalTwins"
+        },
+        {
+            "name": "part05-Part05_14.Books",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_14.Books"
+        },
+        {
+            "name": "part05-Part05_15.Archive",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_15.Archive"
+        },
+        {
+            "name": "part05-Part05_16.DatingApp",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_16.DatingApp"
+        },
+        {
+            "name": "part05-Part05_17.Money",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part05-Part05_17.Money"
+        },
+        {
+            "name": "part06-Part06_01.Menu",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_01.Menu"
+        },
+        {
+            "name": "part06-Part06_02.Stack",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_02.Stack"
+        },
+        {
+            "name": "part06-Part06_03.MessagingService",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_03.MessagingService"
+        },
+        {
+            "name": "part06-Part06_04.PrintingACollection",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_04.PrintingACollection"
+        },
+        {
+            "name": "part06-Part06_05.SantasWorkshop",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_05.SantasWorkshop"
+        },
+        {
+            "name": "part06-Part06_06.LongestInCollection",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_06.LongestInCollection"
+        },
+        {
+            "name": "part06-Part06_07.HeightOrder",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_07.HeightOrder"
+        },
+        {
+            "name": "part06-Part06_08.CargoHold",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_08.CargoHold"
+        },
+        {
+            "name": "part06-Part06_09.SimpleDictionary",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_09.SimpleDictionary"
+        },
+        {
+            "name": "part06-Part06_10.TodoList",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_10.TodoList"
+        },
+        {
+            "name": "part06-Part06_11.Averages",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_11.Averages"
+        },
+        {
+            "name": "part06-Part06_12.JokeManager",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_12.JokeManager"
+        },
+        {
+            "name": "part06-Part06_13.Exercises",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part06-Part06_13.Exercises"
+        },
+        {
+            "name": "part07-Part07_01.LiquidContainers",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_01.LiquidContainers"
+        },
+        {
+            "name": "part07-Part07_02.LiquidContainers2",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_02.LiquidContainers2"
+        },
+        {
+            "name": "part07-Part07_03.Sorting",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_03.Sorting"
+        },
+        {
+            "name": "part07-Part07_04.ReadymadeSortingAlgorithms",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_04.ReadymadeSortingAlgorithms"
+        },
+        {
+            "name": "part07-Part07_05.Searching",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_05.Searching"
+        },
+        {
+            "name": "part07-Part07_06.GradeStatistics",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_06.GradeStatistics"
+        },
+        {
+            "name": "part07-Part07_07.RecipeSearch",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_07.RecipeSearch"
+        },
+        {
+            "name": "part07-Part07_08.BigYear",
+            "path": "../../../../../tmc/vscode/mooc-java-programming-i/part07-Part07_08.BigYear"
+        }
+    ],"settings":{"explorer.decorations.colors":false,"files.autoSave":"onFocusChange","files.exclude":{
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/.available_points.json": true,
+            "**/.tmc_test_results.json": true,
+            "**/.tmcproject.yml": true,
+            "**/tmc": true,
+            "**/.settings": true,
+            "**/.tmcproject.json": true,
+            "**/.tmc.json": true,
+            "**/.tmc.lock": true,
+            "**/.tmc_test_results.hmac.sha256": true
+        },
+        "files.watcherExclude": {
+            ".git/objects/**": true,
+            ".git/subtree-cache/**": true,
+            ".hg/store/**": true,
+            "*/.git/objects/**": true,
+            "*/.git/subtree-cache/**": true,
+            "*/.hg/store/**": true,
+            "**/.vscode/**": true,
+            "**/.tmc.json": true
+        },
+        "problems.decorations.enabled": false,
+        "workbench.editor.closeOnFileDelete": true,
+        "testMyCode.downloadOldSubmission": true,
+        "testMyCode.hideMetaFiles": true,
+        "testMyCode.updateExercisesAutomatically": true,
+        "explorer.decorations.badges": true,
+        "java.configuration.updateBuildConfiguration": "interactive"
+    }
+}
