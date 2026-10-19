@@ -13,6 +13,5 @@ public class Cubes {
             int integer = Integer.valueOf(input);
             System.out.println(integer * integer * integer);
         }
-        
     }
 }
