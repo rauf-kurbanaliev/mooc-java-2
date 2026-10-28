@@ -1,4 +1,3 @@
-
 public class Book {
 
     private String name;
@@ -34,6 +33,8 @@ public class Book {
     public void setContents(String contents) {
         this.contents = contents;
     }
+
+ 
 
     public String toString() {
         return "Name: " + this.name + " (" + this.publicationYear + ")\n"
