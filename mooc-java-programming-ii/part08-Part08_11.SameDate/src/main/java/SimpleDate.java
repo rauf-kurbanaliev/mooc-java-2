@@ -11,6 +11,18 @@ public class SimpleDate {
         this.year = year;
     }
 
+    public int getDay() {
+        return this.day;
+    }
+
+    public int getMonth() {
+        return this.month;
+    }
+
+    public int getYear() {
+        return this.year;
+    }
+
     @Override
     public String toString() {
         return this.day + "." + this.month + "." + this.year;
@@ -51,4 +63,15 @@ public class SimpleDate {
         return this.year - other.year - yearRemoved;
     }
 
+    @Override
+    public boolean equals(Object object) {
+        if (object == null || this.getClass() != object.getClass()) {
+            return false;
+        }
+        if (this == object) {
+            return true;
+        }
+        SimpleDate comparedDate = (SimpleDate) object;
+        return this.getYear() == comparedDate.getYear() && this.getMonth() == comparedDate.getMonth() && this.getDay() == comparedDate.getDay();
+    }
 }
