@@ -11,6 +11,18 @@ public class SimpleDate {
         this.year = year;
     }
 
+    public int getDay() {
+        return this.day;
+    }
+
+    public int getMonth() {
+        return this.month;
+    }
+
+    public int getYear() {
+        return this.year;
+    }
+
     @Override
     public String toString() {
         return this.day + "." + this.month + "." + this.year;
@@ -49,6 +61,15 @@ public class SimpleDate {
         }
 
         return this.year - other.year - yearRemoved;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 23;
+        hash = 13 * hash + this.getDay();
+        hash = 13 * hash + this.getMonth();
+        hash = 13 * hash + this.getYear();
+        return hash;
     }
 
 }

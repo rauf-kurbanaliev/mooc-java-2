@@ -14,6 +14,31 @@ public class LicensePlate {
         this.country = country;
     }
 
+    public String getLiNumber() {
+        return this.liNumber;
+    }
+
+    public String getCountry() {
+        return this.country;
+    }
+
+    @Override
+    public boolean equals(Object object) {
+        if (object == null || this.getClass() != object.getClass()) {
+            return false;
+        }
+        if (this == object) {
+            return true;
+        }
+        LicensePlate licensePlate = (LicensePlate) object;
+        return this.getLiNumber().equals(licensePlate.getLiNumber()) && this.getCountry().equals(licensePlate.getCountry());
+    }
+
+    @Override 
+    public int hashCode() {
+        return Objects.hash(this.liNumber, this.country);
+    }
+
     @Override
     public String toString() {
         return country + " " + liNumber;
